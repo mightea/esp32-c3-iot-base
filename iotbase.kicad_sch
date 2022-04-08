@@ -8,7 +8,7 @@
     (title "ESP32-C3 IoT Base Board")
     (date "2022-04-06")
     (rev "0.1")
-    (comment 2 "Tobias Herrmann, Samuel Gössner")
+    (comment 2 "Tobias Herrmann, Samuel Gossner")
   )
 
   (lib_symbols
