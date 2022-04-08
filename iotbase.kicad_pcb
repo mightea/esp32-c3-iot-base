@@ -287,7 +287,7 @@
     )
   )
 
-  (footprint "0_my_library:Connector_IoT_GPIO" (layer "F.Cu")
+  (footprint "0_Project:Connector_IoT_GPIO" (layer "F.Cu")
     (tedit 624F4BE1) (tstamp 23b3ab42-8c69-461c-8dea-ee3302a7634d)
     (at 107.2996 116.177 180)
     (property "Sheetfile" "iotbase.kicad_sch")

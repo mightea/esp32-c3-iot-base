@@ -1,4 +1,4 @@
 (fp_lib_table
   (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/3rdparty/espressif/footprints/Espressif.pretty")(options "")(descr ""))
-  (lib (name "0_my_library")(type "KiCad")(uri "${KIPRJMOD}/0_my_library.pretty")(options "")(descr ""))
+  (lib (name "0_Project")(type "KiCad")(uri "${KIPRJMOD}/libraries/0_custom_footprints.pretty")(options "")(descr ""))
 )
