@@ -8,6 +8,9 @@ This board is still in it's early design phase...
 
 - [x] Design basic PCB layout
 - [x] Generate fabrication data
-- [ ] Fabicate and test prototypes
+- [x] Fabicate prototypes
+- [ ] Test prototypes
 
 The intention was to use the ESP32-C3 SOC but arduino and esphome support for this generation of chips currently in an early stage and therfore the ESP32-WROOM-32E is used in the meantime.
+
+![iot-base-v1](./docs/iotbase-v1.png)
