@@ -100,4 +100,4 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/kicad,osx,windows
 
 *-backups/
-jlcpcb/gerber/
+pcb/jlcpcb/gerber/
