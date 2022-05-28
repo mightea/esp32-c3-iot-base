@@ -10,6 +10,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ### Added
 
+### Changed
+
+### Removed
+
+### Fixed
+
+## [0.2] - 2022-05-28
+
+### Added
+
 - Added changelog
 - Adds Pi-filter and resistor to RCWL05-16
 - Added new header for externally connecting RCWL-05-16
