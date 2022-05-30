@@ -2,6 +2,10 @@
 
 ESP32-WROOM-32E based IoT development board for [ESPHome](https://esphome.io/) designed with [KiCad EDA](https://www.kicad.org/)
 
+<p style="background-color:yellow">
+<font color="black"> ⚠️  Work in progress...</font>
+</p>
+
 ## Project Status
 
 This board is still in it's early design phase...
